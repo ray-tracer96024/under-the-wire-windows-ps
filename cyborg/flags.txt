@@ -1,0 +1,12 @@
+cyborg01-to-cyborg02 password: kansas
+cyborg02-to-cyborg03 password: 172.31.45.167_ipv4
+cyborg03-to-cyborg04 password: 88_objects
+cyborg04-to-cyborg05 password: bacon_eggs
+cyborg05-to-cyborg06 password: rowray_timer
+cyborg06-to-cyborg07 password: cybergeddon
+cyborg07-to-cyborg08 password: skynet
+cyborg08-to-cyborg09 password: 4
+cyborg09-to-cyborg10 password: onita99
+cyborg10-to-cyborg11 password: terminated!99
+cyborg11-to-cyborg12 password: spaceballs
+
