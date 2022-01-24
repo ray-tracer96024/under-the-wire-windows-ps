@@ -9,4 +9,6 @@ cyborg08-to-cyborg09 password: 4
 cyborg09-to-cyborg10 password: onita99
 cyborg10-to-cyborg11 password: terminated!99
 cyborg11-to-cyborg12 password: spaceballs
-
+cyborg12-to-cyborg13 password: yzpc_heart
+cyborg13-to-cyborg14 password: 22_days
+cyborg14-to-cyborg15 password: propshts_objects
